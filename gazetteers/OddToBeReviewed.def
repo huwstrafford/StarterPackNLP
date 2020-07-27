@@ -1,0 +1,4 @@
+coincide.lst:coincide:coincide::Coincide
+patient_history.lst:person:history::History
+eventModifiers.lst:modifier:::Lookup2
+Health_Condition.lst:health_condition:symptoms::Lookup2

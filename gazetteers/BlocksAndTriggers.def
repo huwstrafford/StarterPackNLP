@@ -1,0 +1,7 @@
+PrescriptionContext.lst:context:time::ContextPrescription
+DiagnosisTriggers.lst:diagnosis:::DiagnosisTriggers
+KidsDose.lst::::KidsDose
+onset.lst:historic:symptoms:onset:Lookup2
+cause.lst:diagnosis:causality::Lookup2
+MedicalHistory.lst:diagnosis:past::MedicalHistory
+opinion.lst:diagnosis:opinion::Lookup2

@@ -1,0 +1,26 @@
+MultiPhase: Stage1
+Phases:
+
+numbers
+times
+measurement
+numberRange
+rangeOrNumber
+LookupSplit
+newLine
+newParagraph
+listPoint
+listSent
+endList
+Token2Verbs
+partialDate
+longestTimePeriod
+pastTense
+DrugPointInTime
+YearToMonths
+Age
+RemoveTimePeriodFromAge
+TimeSince
+DateSince
+RemoveLookup2FromTimeSince
+RemoveTimeSinceFromAge
