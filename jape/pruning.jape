@@ -1,14 +1,11 @@
 MultiPhase:	Pruning
 
 Phases:
-annotation-pruning
 cleaning
 cleaning2
 NegationCleanUp
 NegationCleanup2
 NegationCleanup3
 NegationCleanup4
-removeUselessLookups
 NegationBack
-LookupWithin
 ContextCorrection
